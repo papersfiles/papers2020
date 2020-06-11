@@ -1,7 +1,0 @@
-MOST IMPORTANTE FEATURES TO GC
-MOA_sum,Ce_sum,AMC_sum,DAM_sum,LCOM_sum,RFC_sum,CC_sum,LCOM_median,CC_median,LCOM_mean,RFC_mean,CC_mean,MOA_std,Ca_std,AMC_std,LCOM_std,RFC_std,CC_std,Ce_max,AMC_max,LCOM_max,RFC_max,CC_max,CC_q1,LCOM_q2,RFC_q2,CC_q2
-
-
-
-MOST IMPORTANTE FEATURES TO UD
-AMC_max,AMC_mean,AMC_median,AMC_min,AMC_q1,AMC_q2,AMC_std,AMC_sum,CBO_max,CBO_mean,CBO_q1,CBO_std,CBO_sum,CC_max,CC_q2,CC_std,CC_sum,DIT_std,LCOM3_q1,LCOM3_std,LOC_max,LOC_mean,LOC_median,LOC_min,LOC_q1,LOC_q2,LOC_std,LOC_sum,MOA_std,NOC_max,NOC_mean,NOC_std,NPM_max,NPM_mean,NPM_q2,NPM_std,NPM_sum,RFC_max,RFC_min,RFC_q2,RFC_std,RFC_sum,WMC_max,WMC_std,WMC_sum,pck2_AMC_mean,pck2_AMC_median,pck2_AMC_q1,pck2_AMC_q2,pck2_CC_median,pck2_CC_min,pck2_CC_std,pck2_DIT_mean,pck2_LCOM_q1,pck2_LCOM_q2,pck2_LCOM_sum,pck2_LOC_mean,pck2_LOC_median,pck2_LOC_min,pck2_LOC_q1,pck2_LOC_q2,pck2_RFC_mean,pck2_RFC_q1
